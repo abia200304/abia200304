@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abia200304
  
 - ## Little About Myself
-- 👩 My name is Abia Abraham.
+- 👩 My name is ***Abia Abraham***.
 - 👀 I’m interested in Emerging Technologies.
 - 🌱 I’m currently learning AI and its applications.
 - 💞️ I’m looking to incorporate Ai in all possible applications
