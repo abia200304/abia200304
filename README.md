@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abia200304
-- 
+ 
 - ## Little About Myself
-- 
+
 - 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning AI and its applications
 - 💞️ I’m looking to incorporate Ai in all possible applications
@@ -9,14 +9,14 @@
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I use smart technologies like AI to cope with my laziness
   
--## Age
+- ## Age
 - can't tell you! 😏cause i believe that age is just a number😜😝
 
--##  Educational qualification
+- ##  Educational qualification
 - 🥇 currently pursuing B.tech in Electronics and Communcation Engineering
 - 🥇 Higher and Senior Secondary education from Believers Church Residential school
 
--## Location
+- ## Location
   -🥥🌴Gods own country-Kerala
   -🏠hometown-Thiruvalla
 
