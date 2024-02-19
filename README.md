@@ -1,19 +1,19 @@
 - 👋 Hi, I’m @abia200304
  
 - ## Little About Myself
-
-- 👀 I’m interested in emerging technologies
-- 🌱 I’m currently learning AI and its applications
+- 👩 My name is Abia Abraham.
+- 👀 I’m interested in Emerging Technologies.
+- 🌱 I’m currently learning AI and its applications.
 - 💞️ I’m looking to incorporate Ai in all possible applications
 - 📫 How to reach me :linkedin-Abia Abraham
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I use smart technologies like AI to cope with my laziness
+- ⚡ Fun fact: I use smart technologies like AI to cope with my laziness.
   
 - ## Age
 - can't tell you! 😏cause i believe that age is just a number😜😝
 
 - ##  Educational qualification
-- 🥇 currently pursuing B.tech in Electronics and Communcation Engineering
+- 🥇 currently pursuing B.tech in Electronics and Communcation Engineering from Saints College of Engineering
 - 🥇 Higher and Senior Secondary education from Believers Church Residential school
 
 - ## Location
