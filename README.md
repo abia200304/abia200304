@@ -13,7 +13,7 @@
 - can't tell you! 😏cause i believe that age is just a number😜😝
 
 - ##  Educational qualification
-- 🥇 currently pursuing B.tech in Electronics and Communcation Engineering from Saints College of Engineering
+- 🥇 currently pursuing B.tech in Electronics and Communcation Engineering(hons) with minor in Networking(CSE) ;CGPA: 9.23,from Saints College of Engineering(Autonomous)
 - 🥇 Higher and Senior Secondary education from Believers Church Residential school
 
 - ## Location
